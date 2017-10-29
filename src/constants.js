@@ -1,0 +1,6 @@
+export const status = {
+  IDLE: 'IDLE',
+  SUBMITTING: 'SUBMITTING',
+  SUBMIT_SUCCESS: 'SUBMIT_SUCCESS',
+  ERROR: 'ERROR',
+}

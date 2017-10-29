@@ -1,0 +1,25 @@
+{
+  "name": "netflix-code-example-field-picker",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "numeral": "^2.0.6",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-redux": "^5.0.6",
+    "react-scripts": "1.0.14",
+    "react-string-replace": "^0.4.1",
+    "react-tap-event-plugin": "^3.0.2",
+    "react-textfit": "^1.0.1",
+    "redux": "^3.7.2",
+    "redux-actions": "^2.2.1",
+    "redux-thunk": "^2.2.0",
+    "styled-components": "^2.2.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
